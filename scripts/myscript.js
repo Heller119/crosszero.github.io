@@ -1,5 +1,5 @@
-var player1 = "O";
-var player2 = "X";
+var player1 = "X";
+var player2 = "O";
 var motion = 1;
 function Click() {
 		document.getElementById("butt");
