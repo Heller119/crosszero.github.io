@@ -1,0 +1,178 @@
+body {
+	background-color: Grey;
+	
+}
+form {
+		background-color: DarkGrey;
+		height: 500px;
+		border: 2px black solid;
+		width: 500px;
+}
+
+p.title {
+	font-size: 30px;
+	text-shadow: blue 0 0 1px;
+	font-family: Bold;
+	
+}
+
+div.field {
+	border: 2px blue solid;
+	margin-top: 0 auto;
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	
+}
+
+.field1 {
+	border-right: 2px blue solid;
+	border-bottom: 2px blue solid;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field2 {
+	border-right: 2px blue solid;
+	border-bottom: 2px blue solid;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field3 {
+	border-right: 0;
+	border-bottom: 2px blue solid;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field4 {
+	border-right: 2px blue solid;
+	border-bottom: 2px blue solid;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field5 {
+	border-right: 2px blue solid;
+	border-bottom: 2px blue solid;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field6 {
+	border-right: 0;
+	border-bottom: 2px blue solid;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field7 {
+	border-right: 2px blue solid;
+	border-bottom: 0;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field8 {
+	border-right: 2px blue solid;
+	border-bottom: 0;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+.field9 {
+   border-right: 0;
+   border-bottom: 0;
+	border-left: 0;
+	border-top: 0;
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-color: darkgrey;
+	font-size: 30px;
+	text-align: center;
+	color: Black;
+	font-family: ultra;
+}
+
+div.author {
+	font-family: bold;
+	margin-top: 125px;
+	margin-right: 370px;
+	text-shadow: blue 0 0 1px;
+}
+
+button.restart {
+	width: 150px;
+	height: 50px;
+	margin-top: 50px;
+	background-color: white;
+	font-size: 200%;
+	text-shadow: blue 0 0 1px;
+}
+
